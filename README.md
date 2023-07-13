@@ -1,5 +1,8 @@
 # WeatherExtension
 
+![todaywidget](https://github.com/RedisMadani/WeatherExtension/assets/136177376/24ff6b93-d454-4f0c-b67b-7378f19a2d96)
+
+![containerapp](https://github.com/RedisMadani/WeatherExtension/assets/136177376/b21e6330-b3c3-4b3b-8ad2-c4ac3bafb420)
 
 Welcome to WeatherExtension! This app showcases a weather application with a widget that provides current weather information for today. Stay informed about the weather conditions with this intuitive and user-friendly application.
 
